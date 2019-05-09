@@ -1,0 +1,6 @@
+server:
+  port: 80
+spring:
+  data:
+    mongodb:
+      uri: mongodb://ec2-52-203-238-156.compute-1.amazonaws.com:27017/microreactive?waitQueueMultiple=200

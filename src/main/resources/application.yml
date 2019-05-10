@@ -3,4 +3,4 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://10.0.1.54:27017/microreactive?waitQueueMultiple=200
+      uri: mongodb://10.0.1.152:27017/microreactive?waitQueueMultiple=200
